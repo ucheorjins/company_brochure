@@ -29,7 +29,7 @@ company_brochure/
     ```
 2.  Follow the prompts:
     ```text
-    Enter the Company Name: Anthropic
-    Enter the Website URL (including https://): [https://anthropic.com](https://anthropic.com)
+    Enter the Company Name: "eg: Anthropic"
+    Enter the Website URL (including https://): "eg: [https://anthropic.com](https://anthropic.com)"
     ```
 3.  The AI will begin scraping and streaming the brochure immediately.
